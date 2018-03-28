@@ -1,0 +1,1 @@
+这里是实验第二部分，part2-1.c、part2-2.c是单独编译的，linux下用诸如“gcc -o part2-1 part2-1.c -pthread”、“gcc -o part2-2 part2-2.c -pthread”的命令即可。

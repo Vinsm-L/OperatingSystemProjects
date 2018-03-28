@@ -1,0 +1,1 @@
+这里是实验第二部分，MatrixMultiply.c是单独编译的，linux下用诸如“gcc -o part2 MatrixMultiply.c -pthread”的命令即可。

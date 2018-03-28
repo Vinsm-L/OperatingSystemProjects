@@ -1,0 +1,1 @@
+这里是实验第三部分，part3.c是单独编译的，linux下用诸如“gcc -o part3 part3.c”的命令即可。

@@ -1,0 +1,1 @@
+这里是实验第四部分，part4.c是单独编译的，linux下用诸如“gcc -o part4 part4.c”的命令即可。
